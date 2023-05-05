@@ -1,41 +1,41 @@
-# Why does AnkiMobile cost more than a typical mobile app?
+# لماذا يكلف Ankimobile أكثر من تطبيق جوال نموذجي؟
 
-AnkiMobile is not a standalone app - it is intended to be used in conjunction with the online synchronization service and open source computer version that I've made available for free for the last 10 years. Working on these three platforms is a full time job, and AnkiMobile is my way of putting food on the table and supporting future development.
+Ankimobile ليس تطبيقًا مستقلًا - يهدف إلى استخدامه بالاقتران مع خدمة التزامن عبر الإنترنت وإصدار كمبيوتر مفتوح المصدر الذي أتاحته مجانًا على مدار السنوات العشر الماضية. يعد العمل على هذه المنصات الثلاثة وظيفة بدوام كامل ، وأنكيموبيل هو طريقتي في وضع الطعام على الطاولة ودعم التطوير المستقبلي.
 
-Because there are so many $1 apps out there, some people are surprised by the price. But when you factor in the computer version, synchronization service, and free updates, AnkiMobile's price is quite competitive. At the time of writing (2013-10-04), SuperMemo's computer+iPhone version will set you back $60, and MentalCase's combo will cost you $29.95. 
+نظرًا لوجود العديد من تطبيقات $ 1 ، يفاجأ بعض الأشخاص بالسعر. ولكن عندما تعامل في إصدار الكمبيوتر ، وخدمة التزامن ، والتحديثات المجانية ، يكون سعر Ankimobile قادرًا على المنافسة. في وقت كتابة هذا التقرير (2013-10-04) ، سيعيدك إصدار Computer+iPhone الخاص بـ SuperMemo 60 دولارًا ، وسوف يكلفك Combo Mentalcase 29.95 دولارًا.
 
-Whether you find AnkiMobile's price to be a good deal will ultimately depend on your needs. If you're an existing Anki user that has invested many hours studying on the computer, AnkiMobile provides an easy way to do your studies anywhere while taking advantage of the advanced scheduling and formatting features that Anki provides. On the other hand, if you're looking for something inexpensive and simple and don't mind being restricted to your Apple device, there are cheaper alternatives out there that you may want to consider.
+سواء كنت تجد أن سعر Ankimobile ليكون صفقة جيدة سيعتمد في النهاية على احتياجاتك. إذا كنت مستخدمًا حاليًا في ANKI استثمر عدة ساعات في الدراسة على الكمبيوتر ، فإن Ankimobile يوفر طريقة سهلة لإجراء دراستك في أي مكان مع الاستفادة من ميزات الجدولة والتنسيق المتقدمة التي يوفرها Anki. من ناحية أخرى ، إذا كنت تبحث عن شيء غير مكلف وبسيط ولا تمانع في أن تكون مقيدًا بجهاز Apple الخاص بك ، فهناك بدائل أرخص قد ترغب في أخذها في الاعتبار.
 
-One other thing to note is that once purchased, you can use AnkiMobile on up to 5 of your iOS devices, provided they use the same Apple ID. AnkiMobile also supports family sharing, for families that have that set up.
+شيء آخر يجب ملاحظة أنه بمجرد الشراء ، يمكنك استخدام Ankimobile على ما يصل إلى 5 من أجهزة iOS الخاصة بك ، شريطة أن يستخدموا نفس معرف Apple. يدعم Ankimobile أيضًا مشاركة الأسرة ، للعائلات التي تم إعدادها.
 
-Some frequently asked questions:
+بعض الأسئلة المتكررة:
 
-**"You'd make more money if you priced it cheaper."**
+**"أنت تكسب المزيد من المال إذا قمت بتسهيلها أرخص."**
 
-I have experimented with different price points in the past, and reducing the price resulted in a net decrease in income. Games like Angry Birds are able to make a profit because they appeal to a wide audience. Spaced repetition flashcard apps are quite a niche market in comparison. For this reason, neither a price change nor a sale is likely in the foreseeable future.
+لقد جربت نقاط أسعار مختلفة في الماضي ، وخفض السعر أدى إلى انخفاض صافي في الدخل. ألعاب مثل Angry Birds قادرة على تحقيق ربح لأنها تروق لجمهور واسع. تعد تطبيقات بطاقة Flashcard متباعدة متباعدة سوقًا متخصصة بالمقارنة. لهذا السبب ، لا يوجد تغيير في الأسعار ولا بيع في المستقبل المنظور.
 
-**"It's too expensive in my country."**
+**"إنه مكلف للغاية في بلدي."**
 
-I am not against the idea of providing different prices based on a country's average income, but Apple does not make it possible to set different prices for different countries. Apple sets the price in each country based on the local taxes and costs of doing business there.
+أنا لست ضد فكرة تقديم أسعار مختلفة بناءً على متوسط ​​دخل البلد ، لكن Apple لا تتيح وضع أسعار مختلفة لبلدان مختلفة. تضع Apple السعر في كل بلد بناءً على الضرائب المحلية وتكاليف ممارسة الأعمال التجارية هناك.
 
-Please also bear in mind that the price in the US is the price before state sales taxes are applied, so the difference may not be as as much as you think.
+يرجى أيضًا أن تضع في اعتبارك أن السعر في الولايات المتحدة هو السعر قبل تطبيق ضرائب مبيعات الدولة ، وبالتالي قد لا يكون الفرق بقدر ما تعتقد.
 
-**"As a student, I think it's too expensive."**
+**"كطالب ، أعتقد أنه مكلف للغاية."**
 
-Please compare it to the price of the average textbook and then consider how many hours of use you get out of each. If you don't use Anki enough to justify the price, then you're welcome to use AnkiWeb instead or look into cheaper alternatives.
+يرجى مقارنتها بسعر متوسط ​​الكتاب المدرسي ثم النظر في عدد ساعات الاستخدام التي تحصل عليها من كل منها. إذا لم تستخدم Anki بما يكفي لتبرير السعر ، فأنت مرحبًا بك في استخدام Ankiweb بدلاً من ذلك أو تنظر في بدائل أرخص.
 
-**"Can I get a free copy for personal use, or for writing a review?"**
+**"هل يمكنني الحصول على نسخة مجانية للاستخدام الشخصي ، أو لكتابة مراجعة؟"**
 
-Sorry, I do not offer promo codes, as preparing them takes time away from development.
+آسف ، أنا لا أقدم رموز ترويجية ، لأن إعدادها يستغرق وقتًا بعيدًا عن التنمية.
 
-**"You should just rely on donations."**
+**"يجب أن تعتمد فقط على التبرعات."**
 
-Unfortunately that would not be enough to live on. No matter how much people appreciate a product or service, if they're given the option of not paying, most people will choose not to.
+لسوء الحظ ، لن يكون ذلك كافيًا للعيش فيه. بغض النظر عن مدى تقدير الأشخاص للمنتج أو الخدمة ، إذا تم إعطاؤهم خيار عدم الدفع ، فسيختار معظم الناس عدم ذلك.
 
-**"You should charge for AnkiWeb instead."**
+**"يجب أن تتقاضى رسومًا مقابل Ankiweb بدلاً من ذلك."**
 
-Apple's app store provides a safe and friction-free way of making purchases. Purchasing a subscription from a website requires considerably more effort, and many people are wary of making purchases online.
+يوفر متجر تطبيقات Apple طريقة آمنة وخالية من الاحتكاك في إجراء عمليات الشراء. يتطلب شراء اشتراك من موقع ويب المزيد من الجهد ، والكثير من الناس يشعرون بالقلق من إجراء عمليات الشراء عبر الإنترنت.
 
-**"Why is the Android version free?"**
+**"لماذا إصدار Android مجاني؟"**
 
-The Android version is developed by a different group of people, who based it off the computer version I wrote. Because they have day jobs and can only work on it in their free time, AnkiMobile is better supported: no questions or bug reports go unanswered, the app is more polished, and most bugs get fixed quickly.
+تم تطوير إصدار Android من قبل مجموعة مختلفة من الأشخاص ، الذين استندوا إلى إصدار الكمبيوتر الذي كتبته. نظرًا لأن لديهم وظائف يومية ولا يمكنهم العمل عليها إلا في وقت فراغهم ، فإن Ankimobile مدعومة بشكل أفضل: لا توجد أسئلة أو تقارير الأخطاء لم تتم الإجابة عليها ، والتطبيق أكثر تلميعًا ، ويتم إصلاح معظم الأخطاء بسرعة.

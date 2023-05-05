@@ -1,54 +1,39 @@
-# AnkiApp is not part of the Anki ecosystem
+# [AnkiApp ليست جزءًا من نظام Anki](#ankiapp-is-not-part-of-the-anki-ecosystem)
 
-The program called AnkiApp was developed by a separate group of people, and is not related to the rest of the Anki ecosystem. It was released years after Anki was already established in the marketplace, and we suspect the name was deliberately chosen to take advantage of the brand recognition we have built up. Using Anki in the name implies that it will function with the other Anki clients, which it does not.
+=======================================================================================
 
-If you have downloaded AnkiApp in error, please consider leaving a review on the app store alerting people to the fact that AnkiApp is not connected to Anki. 
+تم تطوير برنامج يسمى AnkiApp من قبل مجموعة من الأشخاص المنفصلين، ولا يرتبط ببقية نظام Anki. تم إصداره سنوات بعد تأسيس Anki في السوق، ونحن نشتبه في أن الاسم تم اختياره عمدًا للاستفادة من التعرف على العلامة التجارية التي بنيناها. استخدام Anki في الاسم يعني أنه سيعمل مع العملاء الأخريين لـ Anki، والذي لا يحدث ذلك.
 
-The Anki ecosystem is made up of Anki, AnkiMobile, AnkiDroid, and AnkiWeb, all of which are linked from our official website: <https://apps.ankiweb.net>
+إذا كنت قد قمت بتنزيل AnkiApp عن طريق الخطأ، يرجى النظر في ترك مراجعة في متجر التطبيقات لتنبيه الناس إلى حقيقة عدم ارتباط AnkiApp بـ Anki.
 
-**Importing from AnkiApp - New Approach**
+تتكون نظام Anki من Anki و AnkiMobile و AnkiDroid و AnkiWeb، والتي يتم ربطها جميعًا من موقعنا الرسمي:  [https://apps.ankiweb.net](https://apps.ankiweb.net)
 
-Abdo has kindly published [an add-on](https://ankiweb.net/shared/info/2072125761
-) to help you import your AnkiApp decks into Anki. This is the recommended method, as it
-doesn't require you to pay the AnkiApp developers money to access your data. As an added
-bonus, it's easier than the old approach.
+**استيراد من AnkiApp - مقاربة جديدة**
 
-**Importing from AnkiApp - Old Approach**
+قام عبدو بنشر [إضافة برمجية](https://ankiweb.net/shared/info/2072125761) للمساعدة في استيراد أوراق AnkiApp الخاصة بك إلى Anki. هذه هي الطريقة الموصى بها، حيث لا يتطلب منك دفع مال لمطوري AnkiApp للوصول إلى بياناتك. كمكافأة إضافية، فإنها أسهل من الطريقة القديمة.
 
-The approach below relies on the export feature of AnkiApp. The AnkiApp developers have recently
-taken that feature aware from free users, requiring users to pay for a subscription before they
-can export their data. For that reason, the add-on approach above is recommended instead. But for posterity, the old instructions are below:
+**استيراد من AnkiApp - مقاربة قديمة**
 
-If you have accidentally added content to AnkiApp, you may be able to move it over to Anki. Study progress can't be imported, but basic text and images can be:
+تعتمد الطريقة التالية على ميزة التصدير في AnkiApp. قام مطورو AnkiApp مؤخرًا بإزالة تلك الميزة من المستخدمين المجانيين، مما يتطلب من المستخدمين الدفع مقابل اشتراك قبل أن يتمكنوا من تصدير بياناتهم. لهذا السبب، يوصى بالطريقة الموصى بها أعلاه. ولكن للذاكرة، يمكن الاطلاع على التعليمات القديمة أدناه:
 
-1. Export from AnkiApp, which gives you a .zip file
-2. Unzip the file somewhere - you will get a fields.csv file and any media files.
-3. Use File>Import in Anki to import the fields.csv file. In the Import window, ensure the "Allow HTML in fields" checkbox is enabled.
+إذا كنت قد أضفت محتوى بطريقة غير مقصودة إلى AnkiApp ، فيمكنك نقله إلى Anki. لا يمكن استيراد تقدم الدراسة ، ولكن يمكن استيراد النص الأساسي والصور:
 
-If the file contained images, those image references need to be changed to a format Anki understands. Select all the cards you imported in the Browse window of Anki, and use the Edit>Find&Replace menu item. Then replace:
+1. تصدير من AnkiApp ، مما يمنحك ملفًا .zip
+2. فك ضغط الملف في مكان ما - ستحصل على ملف fields.csv وملفات الوسائط الأخرى.
+3. استخدم File> Import في Anki لاستيراد ملف fields.csv. في نافذة الاستيراد ، تأكد من تمكين خانة الاختيار "السماح بـ HTML في الحقول".
 
-```html
+إذا كان الملف يحتوي على صور ، فيجب تغيير مراجع الصور تلك إلى تنسيق يفهمه Anki. حدد جميع البطاقات التي تم استيرادها في نافذة التصفح في Anki ، واستخدم عنصر القائمة Edit> Find&Replace. ثم استبدل:
 {{
-```
+ب
 
-with
-
-```html
 <img src="
-```
+ثم قم بعملية Find&Replace أخرى ، واستبدل
 
-Then do another Find&Replace, replacing
-
-```html
 }}
-```
+ب
 
-with
-
-```html
 ">
-```
-
-Finally, you'll need to move the image files that you extracted from the zip file into the User 1/collection.media folder:
+أخيرًا ، ستحتاج إلى نقل ملفات الصور التي استخرجتها من ملف الضغط إلى مجلد User 1/collection.media:
 
 <https://docs.ankiweb.net/files.html#file-locations>
+[https://docs.ankiweb.net/files.html#file-locations]
